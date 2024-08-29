@@ -1,2 +1,1 @@
-Jorge Alexis Salgado  Amaya 
-Emilio Josse Mejicano Chavez
+Jorge Alexis Salgado  Amaya , Emilio Josse Mejicano Chavez
