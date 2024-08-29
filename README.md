@@ -1,4 +1,4 @@
 <p> 
   Jorge Alexis Salgado  Amaya 
-  <\p>
+</p> 
 Emilio Josse Mejicano Chavez
